@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AddressBook()
+comment0.text=\r\n\ Create\ a\ AddressBook\ with\ \ no\ limit\ on\ number\ of\ enrolments.\ \r\n
+comment1.params=newName
+comment1.target=void\ enrollName(Name)
+comment1.text=\r\n\ Add\ a\ person\ details\ \ to\ this\ AddressBook\ like\ first\ and\ last\ name.\r\n\ Along\ with\ address\ details\ like\ city\ name,\ street\ name,\ street\ number,\ zip\ code\r\n\ @param\ newName\ the\ list\ object\ to\ be\ add\r\n
+comment2.params=
+comment2.target=int\ numberOfNames()
+comment2.text=\r\n\ Return\ the\ number\ of\ details\ currently\ enrolled\ in\ this\ AddressBook.\r\n\ @return\ the\ size\ of\ the\ class\r\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=\r\n\ Determines\ whether\ the\ array\ list\ is\ empty.\r\n\r\n\ @return\ true\ if\ the\ list\ is\ empty\ false\ otherwise.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getAddressBook()
+comment4.text=\r\n\ Provides\ a\ class\ list\ with\ other\ AddressBook\ details.\ \r\n\ @return\ the\ class\ details\r\n
+comment5.params=listName
+comment5.target=Name\ showName(java.lang.String)
+comment5.text=\r\n\ searches\ for\ a\ person\ by\ name.\r\n\ @param\ listName\ name\ of\ person\r\n\ @return\ a\ list\ if\ found\ otherwise\ null\r\n
+comment6.params=listName
+comment6.target=boolean\ removeName(java.lang.String)
+comment6.text=\r\n\ removes\ a\ person\ from\ the\ list.\r\n\ @param\ listName\ The\ name\ of\ the\ person\ to\ be\ deleted\r\n\ @return\ true\ if\ person\ is\ deleted\ otherwise\ false\r\n
+comment7.params=listFName\ listLName
+comment7.target=boolean\ matchName(java.lang.String,\ java.lang.String)
+comment7.text=\r\n\ to\ match\ a\ user\ persons\ entery\ with\ already\ existing\ persons\ in\ the\ list.\r\n\ @param\ listfName\ first\ name\ of\ person\r\n\ @param\ listlName\ last\ name\ of\ person\r\n\ @return\ true\ if\ person\ is\ matched\ otherwise\ false\r\n
+numComments=8

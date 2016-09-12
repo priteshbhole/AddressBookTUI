@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ stNumber\ stName\ ctName\ zpCode
+comment0.target=Name(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Create\ a\ new\ name\ with\ a\ given\ name\r\n\ @param\ firstName\ the\ person\ fname\r\n\ @param\ lastName\ the\ person\ lname\r\n\ @param\ stNumber\ the\ person\ streetNumber\r\n\ @param\ stName\ the\ person\ \ streetName\r\n\ @param\ ctName\ the\ person\ \ cityName\r\n\ @param\ zpCode\ the\ person\ \ zipCode\r\n
+comment1.params=
+comment1.target=java.lang.String\ getFName()
+comment1.text=\r\n\ Return\ the\ first\ name\ of\ person.\r\n\ @return\ the\ person\ first\ name\r\n
+comment2.params=
+comment2.target=java.lang.String\ getLName()
+comment2.text=\r\n\ Return\ the\ last\ name\ of\ person.\r\n\ @return\ the\ person\ last\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNameData()
+comment3.text=\r\n\ Return\ the\ full\ name\ and\ all\ address\ details\ of\ this\ person\ at\ output\ terminal.\r\n\ @the\ persons\ first\ and\ last\ name.\r\n\ @the\ persons\ address\ details\ like\ city\ name,\ street\ name,\ street\ number,\ zip\ code\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ @Return\ the\ full\ name\ of\ person\r\n
+numComments=5
